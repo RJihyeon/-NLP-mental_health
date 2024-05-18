@@ -50,6 +50,9 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 - 모델 설정 : gensim.models.LdaMode을 사용해 LDA 모델을 설정
 - 하이퍼파라미터 설정 : alph와 eta auto로 설정 자동 최적화
 - 훈련 : 주어진 데이터와 파라미터로 모델 훈련
+<p align="center">
+  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling.png?raw=true" width="60%" height="auto">
+</p>
 
 <p>[시각화]</p>
 
@@ -57,6 +60,5 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 - HTML 파일로 저장 : display_topics.html 생성
 - 시각화 내용 : 토픽 수, 토픽 간 거리, 토픽별 주요 단어 확인 가능
 <p align="center">
-  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling_demo.png?raw=true
-  " width="60%" height="auto">
+  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling_demo.png?raw=true" width="60%" height="auto">
 </p>
