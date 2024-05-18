@@ -12,7 +12,7 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/Gensim-FFA200?style=flat&logo=로고이름&Color=white" />
+	<img src="https://img.shields.io/badge/Gensim-FFA200?style=flat&Color=white" />
 </div>
 <br></br>
 <h3>✔️Tasks✔️</h3>
@@ -51,8 +51,20 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 - 하이퍼파라미터 설정 : alph와 eta auto로 설정 자동 최적화
 - 훈련 : 주어진 데이터와 파라미터로 모델 훈련
 
+<p align="center">
+  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling.png?raw=true" width="50%" height="auto">
+</p>
+
 <p>[시각화]</p>
 
 - pyLDAvis : 시각화 준비
 - HTML 파일로 저장 : display_topics.html 생성
 - 시각화 내용 : 토픽 수, 토픽 간 거리, 토픽별 주요 단어 확인 가능
+
+<p align="center">
+  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling.png?raw=true" width="50%" height="auto">
+</p>
+<p align="center">
+  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling_demo.png?raw=true
+  " width="50%" height="auto">
+</p>
