@@ -51,10 +51,6 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 - 하이퍼파라미터 설정 : alph와 eta auto로 설정 자동 최적화
 - 훈련 : 주어진 데이터와 파라미터로 모델 훈련
 
-<p align="center">
-  <img src="https://github.com/RJihyeon/NLP_mental_health/blob/main/images/topic_modeling.png?raw=true" width="60%" height="auto">
-</p>
-
 <p>[시각화]</p>
 
 - pyLDAvis : 시각화 준비
