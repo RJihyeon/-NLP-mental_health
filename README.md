@@ -31,7 +31,7 @@ A Customized Exchange Student Review Service for Well-being : Analyzing Factors 
 
 <h4>🖥️2. 전처리</h4>
 
-- 불용어 제거 : stopwords.txt 파일의 불용어들 약 707개를 제외
+- 불용어 제거 : stopwords.txt 파일의 불용어들 약 700개를 제외
 - 문장 필터링 : '우울', '불안', '스트레스' 3가지 정신건강 관련 키워드들을 포함한 문장만 수집
 - 결측치 확인 및 보충
 - 전처리 : 텍스트를 문장 단위로 분할하고, 각 문장에 대한 주요 키워드 3가지가 포함된 문장의 형태소 분석, 명사 추출
